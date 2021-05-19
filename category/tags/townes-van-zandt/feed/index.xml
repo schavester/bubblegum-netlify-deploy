@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>townes van zandt &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/townes-van-zandt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Tue, 25 Apr 2006 22:25:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Toni Wine</title>
+		<link>https://www.bubblegum-music.com/2006/04/25/toni-wine/</link>
+					<comments>https://www.bubblegum-music.com/2006/04/25/toni-wine/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2006 22:25:36 +0000</pubDate>
+				<category><![CDATA[andy kim]]></category>
+		<category><![CDATA[archies]]></category>
+		<category><![CDATA[artists]]></category>
+		<category><![CDATA[David Smay]]></category>
+		<category><![CDATA[don kirshner]]></category>
+		<category><![CDATA[jeff barry]]></category>
+		<category><![CDATA[ron dante]]></category>
+		<category><![CDATA[tony orlando and dawn]]></category>
+		<category><![CDATA[townes van zandt]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Toni Wine by David Smay Listen to that voice soar, turning a single line into an unforgettable pop epiphany:]]></description>
+										<content:encoded><![CDATA[<p>Toni Wine<br />
+by David Smay</p>
+<p>Listen to that voice soar, turning a single line into an unforgettable pop epiphany: </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/04/25/toni-wine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

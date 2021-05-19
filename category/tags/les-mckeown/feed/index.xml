@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>les mckeown &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/les-mckeown/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Thu, 04 May 2006 07:41:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>The Bay City Rollers</title>
+		<link>https://www.bubblegum-music.com/2006/05/04/the-bay-city-rollers/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/04/the-bay-city-rollers/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 04 May 2006 07:41:29 +0000</pubDate>
+				<category><![CDATA[artists]]></category>
+		<category><![CDATA[eric faulkner]]></category>
+		<category><![CDATA[Gary Pig Gold & Carl Cafarelli]]></category>
+		<category><![CDATA[les mckeown]]></category>
+		<category><![CDATA[scotland]]></category>
+		<category><![CDATA[tartan]]></category>
+		<category><![CDATA[teen idols]]></category>
+		<category><![CDATA[woody wood]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[by Carl Cafarelli Teen idols seem to have a built-in obsolescence, virtually guaranteeing a short career for any artist whose primary appeal is to a fickle preteen female market. For the self-consciously hip, the teen idol tag carries a stigma beyond easy redemption, and the artists who cater to this market risk being forever branded &#8230; <a href="https://www.bubblegum-music.com/2006/05/04/the-bay-city-rollers/" class="more-link">Continue reading <span class="screen-reader-text">The Bay City Rollers</span></a>]]></description>
+										<content:encoded><![CDATA[<p>by Carl Cafarelli</p>
+<p>Teen idols seem to have a built-in obsolescence, virtually guaranteeing a short career for any artist whose primary appeal is to a fickle preteen female market.  For the self-consciously hip, the teen idol tag carries a stigma beyond easy redemption, and the artists who cater to this market risk being forever branded as uncool.</p>
+<p>In this context, no band was less cool in the &#8217;70s than the Bay City Rollers, whose management went so far as to tout this harmless Scottish quintet as the </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/04/the-bay-city-rollers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

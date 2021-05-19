@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>single &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/single/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Sat, 29 Jul 2006 18:13:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Remastered Archies &#038; Crazy Elephant CDs</title>
+		<link>https://www.bubblegum-music.com/2006/07/29/remastered-archies-crazy-elephant-cds/</link>
+					<comments>https://www.bubblegum-music.com/2006/07/29/remastered-archies-crazy-elephant-cds/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2006 18:13:44 +0000</pubDate>
+				<category><![CDATA[archies]]></category>
+		<category><![CDATA[crazy elephant]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[mono]]></category>
+		<category><![CDATA[reissue]]></category>
+		<category><![CDATA[remaster]]></category>
+		<category><![CDATA[single]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Repertoire has remastered the bubblicious debut from Riverdale&#8217;s finest, and packaged it with the mono 45 versions of &#34;Bang Shang A Lang&#34; (just typing that makes me wanna shimmy) and &#34;Truck Driver.&#34; They also have turned that hard-to-find Crazy Elephant album into a shiny silver disk, with nine bonus tracks. It&#8217;s pachadyrmistic.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000FQWGBU/ref=nosim/bubblegumbook"><img border="0" src="http://images.amazon.com/images/P/B000FQWGBU.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<p><form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000FQWGBU" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>Repertoire has remastered the bubblicious debut from Riverdale&#8217;s finest, and packaged it with the mono 45 versions of &quot;Bang Shang A Lang&quot; (just typing that makes me wanna shimmy) and &quot;Truck Driver.&quot; They also have turned that hard-to-find Crazy Elephant album into a shiny silver disk, with nine bonus tracks. It&#8217;s pachadyrmistic.</p>
+<p>  <a href="http://www.amazon.com/exec/obidos/ASIN/B000FQWG9M/ref=nosim/bubblegumbook"><img border="0" alt="Medium Image" src="http://images.amazon.com/images/P/B000FQWG9M.01.MZZZZZZZ.jpg" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000FQWG9M" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/07/29/remastered-archies-crazy-elephant-cds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

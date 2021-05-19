@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nicky chinn &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/nicky-chinn/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Thu, 04 May 2006 08:03:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Candy Flavored Lipgloss: Glam &#038; Gum</title>
+		<link>https://www.bubblegum-music.com/2006/05/04/candy-flavored-lipgloss-glam-gum/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/04/candy-flavored-lipgloss-glam-gum/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 04 May 2006 08:03:38 +0000</pubDate>
+				<category><![CDATA[cockney rebel]]></category>
+		<category><![CDATA[david bowie]]></category>
+		<category><![CDATA[David Smay]]></category>
+		<category><![CDATA[marc bolan]]></category>
+		<category><![CDATA[mike chapman]]></category>
+		<category><![CDATA[nicky chinn]]></category>
+		<category><![CDATA[producers]]></category>
+		<category><![CDATA[roxy music]]></category>
+		<category><![CDATA[songwriters]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[by David Smay Pity the American child of the seventies, denied the spectacle of Marc Bolan on Top of the Pops, the Sweet lip-syncing on The Old Grey Whistle Test, and completely ignorant of Supersonic. The flashiest, trashiest, popcultiest of all rock genres, glam rock sparked more epiphanies on the telly than it ever did &#8230; <a href="https://www.bubblegum-music.com/2006/05/04/candy-flavored-lipgloss-glam-gum/" class="more-link">Continue reading <span class="screen-reader-text">Candy Flavored Lipgloss: Glam &#038; Gum</span></a>]]></description>
+										<content:encoded><![CDATA[<p>by David Smay</p>
+<p>Pity the American child of the seventies, denied the spectacle of Marc Bolan on Top of the Pops, the Sweet lip-syncing on The Old Grey Whistle Test, and completely ignorant of Supersonic.  The flashiest, trashiest, popcultiest of all rock genres, glam rock sparked more epiphanies on the telly than it ever did on Radio London.  But television</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/04/candy-flavored-lipgloss-glam-gum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

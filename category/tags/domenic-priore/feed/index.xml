@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>domenic priore &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/domenic-priore/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Wed, 26 Apr 2006 09:45:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>The Lost Feature: Tommy Roe, Brian Hyland, Tommy James &#038; the Shondells</title>
+		<link>https://www.bubblegum-music.com/2006/04/26/the-lost-feature-tommy-roe-brian-hyland-tommy-james-the-shondells/</link>
+					<comments>https://www.bubblegum-music.com/2006/04/26/the-lost-feature-tommy-roe-brian-hyland-tommy-james-the-shondells/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2006 09:45:23 +0000</pubDate>
+				<category><![CDATA[1910 fruitgum co.]]></category>
+		<category><![CDATA[artists]]></category>
+		<category><![CDATA[brian hyland]]></category>
+		<category><![CDATA[buddy holly]]></category>
+		<category><![CDATA[domenic priore]]></category>
+		<category><![CDATA[shelly kidd]]></category>
+		<category><![CDATA[tommy james]]></category>
+		<category><![CDATA[tommy roe]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[An Appreciation of Tommy Roe, Brian Hyland, Tommy James &#038; the Shondells and other primordial examples of bubblegum by Domenic Priore in conversation with Shelly Kidd Domenic Priore: We were trying to figure out what separates the British Invasion groups from the &#8217;60s Garage Punk bands in America that followed, and when you said &#8220;they &#8230; <a href="https://www.bubblegum-music.com/2006/04/26/the-lost-feature-tommy-roe-brian-hyland-tommy-james-the-shondells/" class="more-link">Continue reading <span class="screen-reader-text">The Lost Feature: Tommy Roe, Brian Hyland, Tommy James &#038; the Shondells</span></a>]]></description>
+										<content:encoded><![CDATA[<p>An Appreciation of Tommy Roe, Brian Hyland, Tommy James &#038; the Shondells and other primordial examples of bubblegum<br />
+by Domenic Priore in conversation with Shelly Kidd</p>
+<p>Domenic Priore: We were trying to figure out what separates the British Invasion groups from the &#8217;60s Garage Punk bands in America that followed, and when you said &#8220;they warped it with Chili Dogs&#8221; that pretty much says it all</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/04/26/the-lost-feature-tommy-roe-brian-hyland-tommy-james-the-shondells/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

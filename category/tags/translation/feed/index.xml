@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>translation &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/translation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Wed, 10 May 2006 04:26:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Roberto Jord</title>
+		<link>https://www.bubblegum-music.com/2006/05/10/roberto-jordan-and-the-rise-of-mexigum-or-chiclet-rock/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/10/roberto-jordan-and-the-rise-of-mexigum-or-chiclet-rock/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 10 May 2006 04:26:17 +0000</pubDate>
+				<category><![CDATA[artists]]></category>
+		<category><![CDATA[covers]]></category>
+		<category><![CDATA[discographies]]></category>
+		<category><![CDATA[los dug dug's]]></category>
+		<category><![CDATA[los zignos]]></category>
+		<category><![CDATA[mexico]]></category>
+		<category><![CDATA[roberto jord]]></category>
+		<category><![CDATA[tom walls]]></category>
+		<category><![CDATA[translation]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[by Tom Walls Latin America has always assimilated Anglo-American popular music in some way; it has imitated it, repackaged it and has given it an indelible Latin stamp. Roberto Jord]]></description>
+										<content:encoded><![CDATA[<p>by Tom Walls<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B00079ZA9K/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B00079ZA9K.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00079ZA9K" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>Latin America has always assimilated Anglo-American popular music in some way; it has imitated it, repackaged it and has given it an indelible Latin stamp.  Roberto Jord</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/10/roberto-jordan-and-the-rise-of-mexigum-or-chiclet-rock/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

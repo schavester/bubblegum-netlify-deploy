@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analysis &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/analysis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Tue, 25 Apr 2006 21:54:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Nihilism</title>
+		<link>https://www.bubblegum-music.com/2006/04/25/nihilism/</link>
+					<comments>https://www.bubblegum-music.com/2006/04/25/nihilism/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2006 21:54:38 +0000</pubDate>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[criticism]]></category>
+		<category><![CDATA[diagnosis]]></category>
+		<category><![CDATA[disease]]></category>
+		<category><![CDATA[mary burt]]></category>
+		<category><![CDATA[mental illness]]></category>
+		<category><![CDATA[pathology]]></category>
+		<category><![CDATA[theories]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Nihilism by Mary Burt Our culture is diseased. Yes, it is sick. I&#8217;ve always suspected as much, but recently had it confirmed by a book called Pathologies of the Modern Self (NY: New York University Press, 1987). Although I only read editor David Michael Levin&#8217;s introduction, I learned some pretty harrowing things. Levin asserts that, &#8230; <a href="https://www.bubblegum-music.com/2006/04/25/nihilism/" class="more-link">Continue reading <span class="screen-reader-text">Nihilism</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Nihilism<br />
+by Mary Burt</p>
+<p>Our culture is diseased.  Yes, it is sick.  I&#8217;ve always suspected as much, but recently had it confirmed by a book called Pathologies of the Modern Self (NY: New York University Press, 1987).  Although I only read editor David Michael Levin&#8217;s introduction, I learned some pretty harrowing things.  Levin asserts that, following the death of God, Western culture has brought about &#8220;the destruction of our faith in ourselves&#8221; (ibid., 21).  He goes on to say that the nihilism that pervades our culture &#8220;is not just a sickness of the modern Self, but is also a distinctive affliction of our historical embodiment</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/04/25/nihilism/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

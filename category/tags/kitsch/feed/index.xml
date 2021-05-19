@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kitsch &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/kitsch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Thu, 04 May 2006 09:20:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Eurovision: The Candy-Coated Song Factory</title>
+		<link>https://www.bubblegum-music.com/2006/05/04/eurovision-the-candy-coated-song-factory/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/04/eurovision-the-candy-coated-song-factory/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 04 May 2006 09:20:52 +0000</pubDate>
+				<category><![CDATA[dave thompson]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[jack stevenson]]></category>
+		<category><![CDATA[kitsch]]></category>
+		<category><![CDATA[pop]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[theories]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[by Jack Stevenson While American pop culture beams itself to all corners of the globe, invading and conquering foreign cultures with movies, sex symbols and hamburgers, its harsh glare is outshone once a year by the mega-watt glitter of the Eurovision song contest]]></description>
+										<content:encoded><![CDATA[<p>by Jack Stevenson</p>
+<p>While American pop culture beams itself to all corners of the globe, invading and conquering foreign cultures with movies, sex symbols and hamburgers, its harsh glare is outshone once a year by the mega-watt glitter of the Eurovision song contest</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/04/eurovision-the-candy-coated-song-factory/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

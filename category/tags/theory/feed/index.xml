@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>theory &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/theory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Tue, 02 May 2006 08:16:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Welcome to Bubblegum University</title>
+		<link>https://www.bubblegum-music.com/2006/05/02/welcome-to-bubblegum-university/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/02/welcome-to-bubblegum-university/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Tue, 02 May 2006 08:16:00 +0000</pubDate>
+				<category><![CDATA[bubblegum music]]></category>
+		<category><![CDATA[bubblegum university]]></category>
+		<category><![CDATA[origins]]></category>
+		<category><![CDATA[theory]]></category>
+		<category><![CDATA[think tank]]></category>
+		<category><![CDATA[welcome]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Welcome, bubblegum seeker. You are home. Whether you consider your bubblelove as the guiltiest of pleasures, or shout it to the stars, we invite you to come inside this pink and sticky realm and explore. This site is a kinderpop think tank, hosted by the editors of the book Bubblegum Music is the Naked Truth &#8230; <a href="https://www.bubblegum-music.com/2006/05/02/welcome-to-bubblegum-university/" class="more-link">Continue reading <span class="screen-reader-text">Welcome to Bubblegum University</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Welcome, bubblegum seeker. You are home. Whether you consider your bubblelove as the guiltiest of pleasures, or shout it to the stars, we invite you to come inside this pink and sticky realm and explore. </p>
+<p>This site is a kinderpop think tank, hosted by the editors of the book <em>Bubblegum Music is the Naked Truth</em> and dedicated to the belief that bubblegum is endlessly interesting and worthy of deeper reflection. </p>
+<p>Here you&rsquo;ll find fantasies and hard scholarship, discographies and interviews, record reviews and memories, pink candy and black vinyl. We invite your contributions, either through comments on existing content, or through your own submissions.&nbsp; </p>
+<p>Bubblegum remains the naked truth&#8230; five years after our anthology crafted the language to discuss an orphaned genre, we&#8217;re back and ready to dig <em>much</em> deeper. So hop aboard Captain Groovy&#8217;s magic sleigh and let&#8217;s dig the bubblegum til we can&#8217;t dig no more!  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/02/welcome-to-bubblegum-university/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

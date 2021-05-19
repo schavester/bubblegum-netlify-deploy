@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>glenn sadin &#8211; Bubblegum Music</title>
+	<atom:link href="https://www.bubblegum-music.com/category/tags/glenn-sadin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bubblegum-music.com/</link>
+	<description>bubblegum music is the naked truth</description>
+	<lastBuildDate>Wed, 10 May 2006 04:15:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Group Sounds and Japanese Pop</title>
+		<link>https://www.bubblegum-music.com/2006/05/10/group-sounds-and-japanese-pop/</link>
+					<comments>https://www.bubblegum-music.com/2006/05/10/group-sounds-and-japanese-pop/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 10 May 2006 04:15:35 +0000</pubDate>
+				<category><![CDATA[artists]]></category>
+		<category><![CDATA[glenn sadin]]></category>
+		<category><![CDATA[group sounds]]></category>
+		<category><![CDATA[gs]]></category>
+		<category><![CDATA[j-pop]]></category>
+		<category><![CDATA[jaguars]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[producers]]></category>
+		<category><![CDATA[spiders]]></category>
+		<category><![CDATA[tempters]]></category>
+		<category><![CDATA[theories]]></category>
+		<category><![CDATA[tigers]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Group Sounds and Japanese Pop by Glenn Sadin The Japanese music scene has traditionally been dominated by manufactured pop stars for nearly as long as there has been rock]]></description>
+										<content:encoded><![CDATA[<p>Group Sounds and Japanese Pop<br />
+by Glenn Sadin</p>
+<p>The Japanese music scene has traditionally been dominated by manufactured pop stars for nearly as long as there has been rock</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bubblegum-music.com/2006/05/10/group-sounds-and-japanese-pop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
